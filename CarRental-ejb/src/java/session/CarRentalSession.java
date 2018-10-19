@@ -69,9 +69,4 @@ public class CarRentalSession implements CarRentalSessionRemote {
         renter = name;
     }
 }
-    
-    
-
-    
-    
-}
+ 
